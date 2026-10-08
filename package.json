@@ -1,0 +1,14 @@
+{
+  "name": "arachnida",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "42 Cybersecurity Piscine - spider (image scraper) and scorpion (metadata reader)",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "typescript": "^7.0.2"
+  }
+}
